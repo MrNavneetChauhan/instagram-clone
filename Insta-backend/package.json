@@ -1,0 +1,14 @@
+{
+  "name": "Insta-backend",
+  "version": "1.0.0",
+  "description": "Instagram-clone application based on mern stack",
+  "main": "index.js",
+  "scripts": {
+    "server":"nodemon ./src/config/server"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
+  }
+}
